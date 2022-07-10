@@ -6,6 +6,6 @@
 
 **Set up/Project dependences** 
 
-1. Install cypress 10.3.0 version with the following comand npm install cypress --save-dev in the Cypress working folder  
+1.  CD in in the working folder and generate package.json with the following command _npm init_
 
-2.  
+2.  Install cypress 10.3.0 version with the following comand _npm install cypress_ 
