@@ -28,6 +28,7 @@
 
 
 **Test Run**
+ 
  Run tests with the following commands
  
  1. from browser: npx cypress open
