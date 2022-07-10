@@ -8,7 +8,7 @@
 
 1.  CD in in the working folder and generate package.json with the following command _npm init_
 
-2.  Install cypress 10.3.0 version with the following command _npm install cypress_ 
+2.  Install cypress 10.3.0 version with the following command _npm install cypress --save-dev_ 
 
 **Tasks**
 
