@@ -10,7 +10,7 @@
 
 2.  Install cypress 10.3.0 version with the following command _npm install cypress_ 
 
-**#Tasks**
+**Tasks**
 
 1. Launch  https://www.saucedemo.com/ page
 
@@ -26,4 +26,11 @@
 
 7. Log out 
 
+
+**Test Run**
+ Run tests with the following commands
+ 
+ 1. from browser: npx cypress open
+
+ 2. from terminal: npx cypress run
 
