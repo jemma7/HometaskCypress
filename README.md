@@ -8,4 +8,18 @@
 
 1.  CD in in the working folder and generate package.json with the following command _npm init_
 
-2.  Install cypress 10.3.0 version with the following comand _npm install cypress_ 
+2.  Install cypress 10.3.0 version with the following command _npm install cypress_ 
+
+**#Tasks**
+
+1. Launch  https://www.saucedemo.com/ page
+
+2. Login with valid username and password
+
+3. Add a product to cart
+
+4. Assert the product is added in the cart
+
+5. Delete the product from the cart
+
+6. Log out 
