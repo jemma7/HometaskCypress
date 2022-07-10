@@ -22,4 +22,8 @@
 
 5. Delete the product from the cart
 
-6. Log out 
+6. Assert the product is deleted form the cart
+
+7. Log out 
+
+
